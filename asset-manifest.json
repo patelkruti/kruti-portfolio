@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/kruti-portfolio/static/css/main.43ca6c80.css",
+    "main.js": "/kruti-portfolio/static/js/main.77c6e862.js",
+    "static/js/453.acca0757.chunk.js": "/kruti-portfolio/static/js/453.acca0757.chunk.js",
+    "static/media/code-editor.jpg": "/kruti-portfolio/static/media/code-editor.ce491f366fb0d49f11a9.jpg",
+    "index.html": "/kruti-portfolio/index.html",
+    "main.43ca6c80.css.map": "/kruti-portfolio/static/css/main.43ca6c80.css.map",
+    "main.77c6e862.js.map": "/kruti-portfolio/static/js/main.77c6e862.js.map",
+    "453.acca0757.chunk.js.map": "/kruti-portfolio/static/js/453.acca0757.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43ca6c80.css",
+    "static/js/main.77c6e862.js"
+  ]
+}
